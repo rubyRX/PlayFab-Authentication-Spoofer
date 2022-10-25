@@ -11,4 +11,3 @@
 - The discords listed are the only Old Gorilla Tag servers that I know
 - This Spoofer will not work on SwiftTag, just there to support it
 - Possible Support Soon?
-- If you have suggestions, join the [Discord](https://discord.gg/TskjGDEPZd)
